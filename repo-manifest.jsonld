@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/tox-dev/devpi-process/commit/b4d09adc26bda7dabeb489737e36d42ae76ed9e4",
       "git:hexsha": "b4d09adc26bda7dabeb489737e36d42ae76ed9e4",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/tox-dev/devpi-process/commit/69200944459783ee918ca2b814e9d6ae96d2f52e",
